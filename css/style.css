@@ -1,0 +1,29 @@
+.heder-link {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.36;
+    color: #7D7D7D;
+}
+
+.header-link:hover {
+    color: #03A9F4;
+}
+
+.gallary-name {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.14;
+    color: #626262;
+}
+.gallary-title{
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+}
